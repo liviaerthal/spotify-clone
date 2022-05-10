@@ -1,9 +1,13 @@
 # Spotify Clone 🎵
- A clone of the Spotify homepage
+A  Spotify homepage clone
  
- ## 🌐 Technology
+## 🖥 Preview 
+<img src="readme.png" alt="projeto-spotify">
+ 
+ ## 🚀 Tecnologies
  * HTML
  * CSS
 
-## ⚠️ Future Changes 
+## ⚠️ Future Changes
 * Make it responsive 
+* Add another sections
